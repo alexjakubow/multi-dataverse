@@ -1,0 +1,14 @@
+# Directories
+files
+logs
+utils*
+venv
+Z
+
+# Files
+.env
+*.ipynb
+*.zip
+test.*
+setup.py
+bulk_migration_results.csv
